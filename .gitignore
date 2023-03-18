@@ -1,0 +1,12 @@
+
+*.fig
+
+
+.DS_Store
+
+node_modules/
+
+
+.prettierrc.json
+
+dist/
